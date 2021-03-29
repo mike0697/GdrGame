@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Character>
+    <name>mike</name>
+    <level>1</level>
+    <health>0.0</health>
+    <is_dead>false</is_dead>
+    <position_x>0</position_x>
+    <position_y>0</position_y>
+    <attack>0.0</attack>
+    <magicAttack>0.0</magicAttack>
+    <dodge>0.0</dodge>
+    <inventory>
+        <capacity>15</capacity>
+        <maxCapacity>15</maxCapacity>
+        <inventoryArrayList>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <inventoryArrayList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        </inventoryArrayList>
+    </inventory>
+    <equipInventory>
+        <shield>0</shield>
+        <weapon>1</weapon>
+        <bladeEq>
+            <nome>Training Blade</nome>
+            <SPACE_ID>4</SPACE_ID>
+            <type>0</type>
+            <quantity>1</quantity>
+            <is_equip_or_armor>true</is_equip_or_armor>
+            <desk>A training blade in red color. It is not suitable for actual fights.</desk>
+            <ID>11</ID>
+            <ID_INV_SPACE>5</ID_INV_SPACE>
+            <level>0</level>
+            <RequiredLevel>0</RequiredLevel>
+            <attack>10</attack>
+            <magicAttack>7</magicAttack>
+            <attackRate>20</attackRate>
+            <STR>23</STR>
+            <INT>4</INT>
+            <DEX>16</DEX>
+            <numberSlot>0</numberSlot>
+        </bladeEq>
+        <gloves>2</gloves>
+        <boots>3</boots>
+        <helm>4</helm>
+        <suit>5</suit>
+        <ring1>6</ring1>
+        <ring2>7</ring2>
+        <ring3>8</ring3>
+        <ring4>9</ring4>
+        <amulet>10</amulet>
+        <earring1>11</earring1>
+        <earring2>12</earring2>
+        <belt>13</belt>
+        <charm>14</charm>
+        <talisman>15</talisman>
+        <bracelet1>16</bracelet1>
+        <bracelet2>17</bracelet2>
+        <arcana>18</arcana>
+        <epaulet>19</epaulet>
+        <effector>20</effector>
+        <carnelian>21</carnelian>
+    </equipInventory>
+    <savesInventory>
+        <trainingBladesArray>
+            <trainingBladesArray xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <trainingBladesArray xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <trainingBladesArray xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        </trainingBladesArray>
+        <potionHpsArray>
+            <potionHpsArray xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        </potionHpsArray>
+    </savesInventory>
+    <statistiche>
+        <intelligence>0</intelligence>
+        <sociability>0</sociability>
+        <focus>0</focus>
+        <javaSkills>0</javaSkills>
+        <otherSkill>0</otherSkill>
+        <innerGame>0</innerGame>
+        <aesthetics>0</aesthetics>
+        <influence>0</influence>
+        <physical>0</physical>
+        <health>0</health>
+        <culture>0</culture>
+        <mapExploration>0</mapExploration>
+        <maxEnergy>10</maxEnergy>
+        <energy>10</energy>
+        <money>500</money>
+    </statistiche>
+    <activity/>
+</Character>
